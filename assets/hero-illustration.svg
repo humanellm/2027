@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+<title id="title">Abstract Helsinki and human-AI interaction illustration</title>
+<desc id="desc">A stylized waterfront skyline with interface cards, dialogue nodes, and connecting lines.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#eef7ff"/><stop offset="0.55" stop-color="#f6efe8"/><stop offset="1" stop-color="#f7fbf5"/></linearGradient>
+  <linearGradient id="warm" x1="0" x2="1"><stop offset="0" stop-color="#c35f45"/><stop offset="1" stop-color="#e6a04f"/></linearGradient>
+  <linearGradient id="cool" x1="0" x2="1"><stop offset="0" stop-color="#2f6f7e"/><stop offset="1" stop-color="#70a7a5"/></linearGradient>
+  <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#1c2f39" flood-opacity=".18"/></filter>
+</defs>
+<rect width="900" height="620" rx="44" fill="url(#sky)"/>
+<circle cx="720" cy="118" r="68" fill="#f2c36d" opacity=".72"/>
+<path d="M75 453 C178 409 265 419 360 451 C477 490 590 484 826 430" fill="none" stroke="#aac8c5" stroke-width="18" stroke-linecap="round" opacity=".55"/>
+<path d="M86 474 C260 438 375 478 510 473 C622 468 711 427 824 451" fill="none" stroke="#ffffff" stroke-width="12" stroke-linecap="round" opacity=".92"/>
+<g opacity=".9">
+  <rect x="92" y="352" width="50" height="104" rx="3" fill="#284b5b"/><rect x="153" y="318" width="80" height="138" rx="5" fill="#376878"/>
+  <rect x="252" y="370" width="67" height="86" rx="4" fill="#2f5868"/><rect x="336" y="297" width="54" height="159" rx="4" fill="#497d86"/>
+  <path d="M414 456 V343 L466 304 L518 343 V456" fill="#315c69"/><rect x="546" y="333" width="82" height="123" rx="5" fill="#487b83"/>
+  <path d="M650 456 V286 L704 256 L758 286 V456" fill="#315966"/><rect x="774" y="369" width="45" height="87" rx="4" fill="#416f79"/>
+  <g fill="#eaf2ef" opacity=".9"><rect x="109" y="376" width="10" height="10"/><rect x="109" y="405" width="10" height="10"/><rect x="172" y="342" width="11" height="11"/><rect x="200" y="342" width="11" height="11"/><rect x="358" y="323" width="10" height="10"/><rect x="566" y="358" width="12" height="12"/><rect x="594" y="358" width="12" height="12"/><rect x="691" y="294" width="14" height="14"/></g>
+</g>
+<g filter="url(#shadow)">
+  <rect x="98" y="84" width="270" height="154" rx="26" fill="#fff"/>
+  <rect x="129" y="116" width="136" height="14" rx="7" fill="#376878"/><rect x="129" y="150" width="190" height="11" rx="5.5" fill="#bccfce"/><rect x="129" y="176" width="151" height="11" rx="5.5" fill="#d8c7b8"/>
+  <circle cx="315" cy="124" r="26" fill="url(#warm)"/><path d="M303 125 l10 10 20-26" stroke="#fff" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<g filter="url(#shadow)">
+  <rect x="472" y="96" width="288" height="182" rx="28" fill="#fff"/>
+  <path d="M522 148 h120" stroke="#2f6f7e" stroke-width="14" stroke-linecap="round"/><path d="M522 186 h176" stroke="#d7c5b4" stroke-width="12" stroke-linecap="round"/><path d="M522 222 h118" stroke="#b9cfcb" stroke-width="12" stroke-linecap="round"/>
+  <circle cx="712" cy="155" r="20" fill="#2f6f7e"/><circle cx="712" cy="212" r="20" fill="#c35f45"/><path d="M696 174 C650 188 650 199 696 209" stroke="#aac8c5" stroke-width="5" fill="none"/>
+</g>
+<g>
+  <path d="M342 236 C410 275 441 169 507 153" stroke="#2f6f7e" stroke-width="5" fill="none" stroke-dasharray="9 14" opacity=".72"/>
+  <path d="M309 239 C384 313 491 319 594 278" stroke="#c35f45" stroke-width="5" fill="none" stroke-dasharray="10 12" opacity=".62"/>
+  <circle cx="342" cy="236" r="10" fill="#2f6f7e"/><circle cx="507" cy="153" r="10" fill="#2f6f7e"/><circle cx="594" cy="278" r="10" fill="#c35f45"/>
+</g>
+<g filter="url(#shadow)">
+  <rect x="260" y="414" width="372" height="96" rx="28" fill="#fff"/>
+  <circle cx="313" cy="462" r="26" fill="url(#cool)"/><path d="M358 443 h205" stroke="#376878" stroke-width="13" stroke-linecap="round"/><path d="M358 474 h146" stroke="#d7c5b4" stroke-width="12" stroke-linecap="round"/>
+</g>
+</svg>
